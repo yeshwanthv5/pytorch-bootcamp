@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+__pycache__/
+Data/MNIST/
+Data/FashionMNIST/
+Data/cifar-10-batches-py/
+Data/CATS_DOGS/
+*.gz
